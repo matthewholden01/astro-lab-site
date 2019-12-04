@@ -18,34 +18,34 @@ side:
           kiddos:
           - title: "GMACS"
             url: /instruments/gmacs/
-          - title: "MooSci"
-            url: /instruments/moosci/
-          - title: Cargille Test
-            url: /instruments/cargille/
+          - title: "GMT Mirror Actuators"
+            url: /instruments/gmtactuators
+        - title: "ETSI"
+          url: /instruments/etsi/
+        - title: "MSE"
+          url: /instruments/mse/
+        - title: "TCal"
+          url: /instruments/tcal/
+        - title: "TOROS"
+          url: /instruments/toros/
         - title: Dark Energy Survey
           url: /instruments/des/
           kiddos:
             - title: "DECal"
               url: /instruments/decal/
-            - title: "Astrocal"
-              url: /instruments/astrocal/
             - title: "aTmCam"
               url: /instruments/atmcam/
         - title: HETDEX
           url: /instruments/hetdex/
           kiddos:
-            - title: VIRUS
-              url: /instruments/hetdex/
-        - title: DuOCam
-          url: /instruments/duocam/
-        - title: AggieSpec
-          url: /instruments/aggiespec/
-        - title: PreCal
-          url: /instruments/precal/
-        - title: MADLaSR
-          url: /instruments/madlasr/
-        - title: Reflectance
+            - title: VIRUS Collimators
+              url: /instruments/hetdex/#virus-collimators
+            - title: VIRUS Enclosures
+              url: /instruments/hetdex/#virus-enclosures
+        - title: Reflectance Measurements
           url: /instruments/reflectance/
+        - title: REU
+          url: /instruments/reu
         - title: Past Projects
           url: /instruments/pastprojects/
 

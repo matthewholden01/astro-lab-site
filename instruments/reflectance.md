@@ -1,11 +1,35 @@
 ---
 layout: single
-title: Reflectance Measurements
+title: Reflectance Measurements of Various Black and White Materials
 sidebar:
   nav: "side"
+toc: true
 rtt: true
 ---
-## Characterization of the Reflectivity of Various Black Materials  
+## Introduction
+
+## Total Reflectance
+
+## [MADLaSR](/instruments/madlasr/)
+We have designed and built a device capable of measuring both the specular reflectivity of black materials, as well as the Lambertian reflectivity of white materials over their full range of incident and observed angles, respectively. The MADLaSR (Multi-Angle Detection of Lambertian and Specular Reflectivity) is a device designed for specular reflectivity testing in the range of 10° < θ < 170° and for Lambertian reflectivity testing in the range of 10° < θ < 85°. Here, we will describe the design and functionality of the MADLaSR.  
+<figure>
+  <a href="/instruments/assets/madlasr1.jpg" target="_blank">
+  <img src="/instruments/assets/madlasr1.jpg" alt="Figure 1"></a>
+  <figcaption>Figure 1: MADLaSR Setup in the Munnerlyn Astronomical Instrumentation Laboratory in Texas A&M University</figcaption>
+</figure>
+
+### Specular Reflectance
+When testing for specular reflectivity, the laser and the sensor are moved to different positions symmetrically with respect to the central axis as defined by their pivot rod. An example of this setup is shown in Figure 2. By positioning iris diaphragms in front of both the laser and sensor, the diffuse scattering of the laser beam is minimized to ensure that we are measuring solely the specular reflection.  
+<figure>
+  <a href="/instruments/assets/madlasr2.jpg" target="_blank">
+  <img src="/instruments/assets/madlasr2.jpg" alt="Figure 2"></a>
+  <figcaption>Figure 2: MADLaSR's Specular Reflectivity Testing</figcaption>
+</figure>
+
+### Lambertian Characterization
+
+
+## Characterization of Black Materials  
 [Click here](/instruments/samples/) to view materials and their respective plots.  
 [Click here](/instruments/reflectance_plots/) to view all plots.  
 
@@ -32,21 +56,7 @@ Data Analysis:
 2. To see the reflectance profile, plot these new absolute reflectance values versus wavelength.  
 
 
-## Application of [MADLaSR](/instruments/madlasr/)
-We have designed and built a device capable of measuring both the specular reflectivity of black materials, as well as the Lambertian reflectivity of white materials over their full range of incident and observed angles, respectively. The MADLaSR (Multi-Angle Detection of Lambertian and Specular Reflectivity) is a device designed for specular reflectivity testing in the range of 10° < θ < 170° and for Lambertian reflectivity testing in the range of 10° < θ < 85°. Here, we will describe the design and functionality of the MADLaSR.  
-<figure>
-	<a href="/instruments/assets/madlasr1.jpg" target="_blank">
-  <img src="/instruments/assets/madlasr1.jpg" alt="Figure 1"></a>
-  <figcaption>Figure 1: MADLaSR Setup in the Munnerlyn Astronomical Instrumentation Laboratory in Texas A&M University</figcaption>
-</figure>
-
-### Specular Reflectivity Testing  
-When testing for specular reflectivity, the laser and the sensor are moved to different positions symmetrically with respect to the central axis as defined by their pivot rod. An example of this setup is shown in Figure 2. By positioning iris diaphragms in front of both the laser and sensor, the diffuse scattering of the laser beam is minimized to ensure that we are measuring solely the specular reflection.  
-<figure>
-	<a href="/instruments/assets/madlasr2.jpg" target="_blank">
-  <img src="/instruments/assets/madlasr2.jpg" alt="Figure 2"></a>
-  <figcaption>Figure 2: MADLaSR's Specular Reflectivity Testing</figcaption>
-</figure>
+## Characterization of White Materials
 
 ### Lambertian Reflectivity Testing  
 When testing for Lambertian reflectivity, the laser must be positioned perpendicular to the surface of the material while the sensor is moved to different angles. This setup, as shown in Figure 3, is designed to test for constant apparent surface brightness regardless of the angle of observation.  

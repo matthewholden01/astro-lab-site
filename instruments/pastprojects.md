@@ -4,8 +4,12 @@ title: Past Lab Projects
 sidebar:
   nav: "side"
 ---
+- [AggieSpec](/instruments/aggiespec/)
+- [PreCal](/instruments/precal/)
 - [B&C Telescope](/instruments/bctelescope/)
 - [Nikon Lens Throughput](/instruments/nikonlensthroughput/)
+- [MooSci](/instruments/moosci/)
+- [Cargille Test](/instruments/cargille/)
 - [Binospec](/instruments/binospec/)
 - [Calypso](/instruments/calypso/)
 - [DESpec](/instruments/despec/)
