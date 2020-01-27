@@ -38,74 +38,7 @@ This material is based upon work supported by the National Science Foundation un
 For more information about VIRUS, please see our [Publications](http://instrumentation.tamu.edu/publications.html) section.
 
 
-## VIRUS Enclosures
-The Visible Integral-Field Replicable Unit Spectrograph (VIRUS) instrument will be installed at the Hobby-Eberly Telescope in the near future. The instrument will be housed in two enclosures that are mounted adjacent to the telescope, via the VIRUS Support Structure (VSS). The enclosures have been designed to support and protect the instrument, to enable servicing of the instrument, and to cool the instrument appropriately while not adversely affecting the dome environment. The system uses simple HVAC air handling techniques in conjunction with thermoelectric and standard glycol heat exchangers to provide efficient heat removal. The enclosures also provide power and data transfer to and from each VIRUS unit, liquid nitrogen cooling to the detectors, and environmental monitoring of the instrument and dome environments.
-<div class="flexslider">
-  <ul class="slides">
-    <li>
-      <center><img src="/instruments/assets/VirusEnclosureFigure2l.png" style="height:400px;width:auto;"/></center>
-      <p class="flex-caption">A rendering of the HET with the VSS, enclosures, and IFUs.</p>
-    </li>
-    <li>
-      <center><img src="/instruments/assets/VirusEnclosureFigure2r.png" style="height:400px;width:auto;"/></center>
-      <p class="flex-caption">The VSS and enclosures without HET for clarity.</p>
-    </li>
-    <li>
-      <center><img src="/instruments/assets/VirusEnclosureFigure3l.png" style="height:400px;width:auto;"/></center>
-      <p class="flex-caption">The first VIRUS enclosure being stacked at Texas A&M University.</p>
-    </li>
-    <li>
-      <center><img src="/instruments/assets/VirusEnclosureFigure3r.png" style="height:400px;width:auto;"/></center>
-      <p class="flex-caption">A model of the enclosure with the added annex.</p>
-    </li>
-    <li>
-      <center><img src="/instruments/assets/VirusEnclosureFigure4.png" style="height:400px;width:auto;"/></center>
-      <p class="flex-caption"><small>A model of the enclosure mounting rails that will hold the VIRUS units.</small></p>
-    </li>
-    <li>
-      <center><img src="/instruments/assets/VirusEnclosureFigure5.png" style="height:400px;width:auto;"/></center>
-      <p class="flex-caption">The VIRUS unit will sit on the v-groove and angle iron.</p>
-    </li>
-    <li>
-      <center><img src="/instruments/assets/VirusEnclosureFigure6.png" style="height:400px;width:auto;"/></center>
-      <p class="flex-caption"><small>Enclosure door design installed on the enclosure prototype to test the amount of pressure it can hold.</small></p>
-    </li>
-    <li>
-      <center><img src="/instruments/assets/VirusEnclosureFigure7.png" style="height:400px;width:auto;"/></center>
-      <p class="flex-caption">Seal selected for the enclosure door.</p>
-    </li>
-    <li>
-      <center><img src="/instruments/assets/VirusEnclosureFigure9.png" style="height:400px;width:auto;"/></center>
-      <p class="flex-caption">The thermoelectric cooler used in the enclosure HVAC system.</p>
-    </li>
-    <li>
-      <center><img src="/instruments/assets/VirusEnclosureFigure12l.png" style="height:400px;width:auto;"/></center>
-      <p class="flex-caption">The VIRUS electronics box airflow adapter sitting on a mock electronics box.</p>
-    </li>
-    <li>
-      <center><img src="/instruments/assets/VirusEnclosureFigure12r.png" style="height:400px;width:auto;"/></center>
-      <p class="flex-caption"><small>The adapter on a production electronics box in the enclosure, attached to the flexible hosing and duct work.</small></p>
-    </li>
-  </ul>
-</div>
-<figure>
-  <a href="/instruments/assets/VirusEnclosureFigure8.png" target="_blank"><img src="/instruments/assets/VirusEnclosureFigure8.png"></a>
-  <figcaption style="padding-right:25%">
-    Illustration of the two HVAC zones. The blue area on the right is for the enclosure which houses the VIRUS units, and the yellow area is for the enclosure annex which holds the VIRUS electronics equipment and enclosure cooling system.
-  </figcaption>
-</figure>
-<figure>
-    <a href="/instruments/assets/VirusEnclosureFigure10.png" target="_blank"><img src="/instruments/assets/VirusEnclosureFigure10.png"></a>
-    <figcaption style="padding-right:25%">
-    Temperatures of the air inside and out of the closed loop test system. The bump in internal temperature starts when the 220W heat is activated.
-  </figcaption>
-</figure>
-<figure>
-  <a href="/instruments/assets/VirusEnclosureFigure11.png" target="_blank"><img src="/instruments/assets/VirusEnclosureFigure11.png"/></a>
-  <figcaption style="padding-right:25%">
-    Differential temperatures of the air inside and out of the closed loop test system. The bump in internal temperature starts when the 220W heat is activated. This shows that for the test loop, it was able to track the temperatures within 0.1°C.
-  </figcaption>
-</figure>
+
 
 ## VIRUS Collimators
 The Visual Integral-Field Replicable Unit Spectrograph (VIRUS) instrument is a baseline array of 150 identical fiber fed optical spectrographs designed to support observations for the Hobby-Eberly Telescope Dark Energy Experiment (HETDEX). 130 VIRUS collimator sub-assemblies have been assembled in a production line and are now complete. Here we review the design choices and assembly practices used to produce a suite of identical low-cost spectrographs in a timely fashion using primarily unskilled labor.
@@ -213,3 +146,72 @@ The Visual Integral-Field Replicable Unit Spectrograph (VIRUS) instrument is a b
 <figcaption>
   Once the final collimator assembly is complete no further optical alignment is required at this stage. The completed collimators are fitted with a plastic cover that remains with the collimators once installed on the telescope, protected from dust with plastic wrap, and finally packaged and shipped to UT-Austin for integration with the VIRUS cameras and final optical alignment.
 </figcaption>
+
+## VIRUS Enclosures
+The Visible Integral-Field Replicable Unit Spectrograph (VIRUS) instrument will be installed at the Hobby-Eberly Telescope in the near future. The instrument will be housed in two enclosures that are mounted adjacent to the telescope, via the VIRUS Support Structure (VSS). The enclosures have been designed to support and protect the instrument, to enable servicing of the instrument, and to cool the instrument appropriately while not adversely affecting the dome environment. The system uses simple HVAC air handling techniques in conjunction with thermoelectric and standard glycol heat exchangers to provide efficient heat removal. The enclosures also provide power and data transfer to and from each VIRUS unit, liquid nitrogen cooling to the detectors, and environmental monitoring of the instrument and dome environments.
+<div class="flexslider">
+  <ul class="slides">
+    <li>
+      <center><img src="/instruments/assets/VirusEnclosureFigure2l.png" style="height:400px;width:auto;"/></center>
+      <p class="flex-caption">A rendering of the HET with the VSS, enclosures, and IFUs.</p>
+    </li>
+    <li>
+      <center><img src="/instruments/assets/VirusEnclosureFigure2r.png" style="height:400px;width:auto;"/></center>
+      <p class="flex-caption">The VSS and enclosures without HET for clarity.</p>
+    </li>
+    <li>
+      <center><img src="/instruments/assets/VirusEnclosureFigure3l.png" style="height:400px;width:auto;"/></center>
+      <p class="flex-caption">The first VIRUS enclosure being stacked at Texas A&M University.</p>
+    </li>
+    <li>
+      <center><img src="/instruments/assets/VirusEnclosureFigure3r.png" style="height:400px;width:auto;"/></center>
+      <p class="flex-caption">A model of the enclosure with the added annex.</p>
+    </li>
+    <li>
+      <center><img src="/instruments/assets/VirusEnclosureFigure4.png" style="height:400px;width:auto;"/></center>
+      <p class="flex-caption"><small>A model of the enclosure mounting rails that will hold the VIRUS units.</small></p>
+    </li>
+    <li>
+      <center><img src="/instruments/assets/VirusEnclosureFigure5.png" style="height:400px;width:auto;"/></center>
+      <p class="flex-caption">The VIRUS unit will sit on the v-groove and angle iron.</p>
+    </li>
+    <li>
+      <center><img src="/instruments/assets/VirusEnclosureFigure6.png" style="height:400px;width:auto;"/></center>
+      <p class="flex-caption"><small>Enclosure door design installed on the enclosure prototype to test the amount of pressure it can hold.</small></p>
+    </li>
+    <li>
+      <center><img src="/instruments/assets/VirusEnclosureFigure7.png" style="height:400px;width:auto;"/></center>
+      <p class="flex-caption">Seal selected for the enclosure door.</p>
+    </li>
+    <li>
+      <center><img src="/instruments/assets/VirusEnclosureFigure9.png" style="height:400px;width:auto;"/></center>
+      <p class="flex-caption">The thermoelectric cooler used in the enclosure HVAC system.</p>
+    </li>
+    <li>
+      <center><img src="/instruments/assets/VirusEnclosureFigure12l.png" style="height:400px;width:auto;"/></center>
+      <p class="flex-caption">The VIRUS electronics box airflow adapter sitting on a mock electronics box.</p>
+    </li>
+    <li>
+      <center><img src="/instruments/assets/VirusEnclosureFigure12r.png" style="height:400px;width:auto;"/></center>
+      <p class="flex-caption"><small>The adapter on a production electronics box in the enclosure, attached to the flexible hosing and duct work.</small></p>
+    </li>
+  </ul>
+</div>
+<figure>
+  <a href="/instruments/assets/VirusEnclosureFigure8.png" target="_blank"><img src="/instruments/assets/VirusEnclosureFigure8.png"></a>
+  <figcaption style="padding-right:25%">
+    Illustration of the two HVAC zones. The blue area on the right is for the enclosure which houses the VIRUS units, and the yellow area is for the enclosure annex which holds the VIRUS electronics equipment and enclosure cooling system.
+  </figcaption>
+</figure>
+<figure>
+    <a href="/instruments/assets/VirusEnclosureFigure10.png" target="_blank"><img src="/instruments/assets/VirusEnclosureFigure10.png"></a>
+    <figcaption style="padding-right:25%">
+    Temperatures of the air inside and out of the closed loop test system. The bump in internal temperature starts when the 220W heat is activated.
+  </figcaption>
+</figure>
+<figure>
+  <a href="/instruments/assets/VirusEnclosureFigure11.png" target="_blank"><img src="/instruments/assets/VirusEnclosureFigure11.png"/></a>
+  <figcaption style="padding-right:25%">
+    Differential temperatures of the air inside and out of the closed loop test system. The bump in internal temperature starts when the 220W heat is activated. This shows that for the test loop, it was able to track the temperatures within 0.1°C.
+  </figcaption>
+</figure>
