@@ -2,6 +2,8 @@
 main:
   - title: "Instruments"
     url: /instruments/
+  - title: "Publications"
+    url: /publications/
   - title: "Information"
     url: /pages/
   - title: "People"
@@ -82,7 +84,7 @@ info:
       children:
         - title: Journal Articles
           url: /publications/journals/
-        - title: Presentations
+        - title: Conference Presentations
           url: /publications/presentations/
         - title: Reports
           url: /publications/reports/

@@ -24,4 +24,17 @@ Our lab is located in the Charles R. '62 & Judith G. Munnerlyn Astronomical Labo
 |Monique S. Glover |Lead Office Assistant        |mglover@physics.                           |MASS 205  |(979) 862-2099 |
 |Mary Anne Limbach |Research Associate           |malimbach@physics.                         |MASS 209B |               |
 |Lauren Aldoroty   |Graduate Student             |laldoroty@                                 |MASS 207  |               |
-|Peter Ferguson    |Graduate Student             |peterferguson@gmail.com<br>(do not append) |MASS 207  |               |
+|Peter Ferguson    |Graduate Student             |peterferguson@<br>(append gmail.com) |MASS 207  |               |
+
+
+## Visiting the Lab
+
+The Astronomical Instrumentation Lab is not open to the public. If you are visiting the lab we have the following parking recommendations.  There are several locations with guest parking and a kiosk for payment.
+
+[Campus Parking Map](https://transport.tamu.edu/parkingmap//tsmap.htm?map=main)
+
+This map shows all of the locations, anywhere with a blue 'P' has a visitor pay kiosk. First choice is the [North Side Garage](https://transport.tamu.edu/parkingmap/tsmap.htm?map=timed&cit=20100), as it is right next to the lab, however depending on when you arrive, it can be very busy or full. 
+
+There is also a [city parking garage](https://goo.gl/maps/u3aRZwH6P7817f71A) that is a relatively short walk.
+
+Lot [30c](https://transport.tamu.edu/parkingmap/tsmap.htm?map=main&cit=03003), or the [post office lot](https://transport.tamu.edu/parkingmap/tsmap.htm?map=main&cit=21070) are also fairly close to the lab, but they have limited visitor spots (15 spaces and 23 spaces, respectively).
