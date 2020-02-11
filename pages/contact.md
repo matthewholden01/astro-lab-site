@@ -16,15 +16,15 @@ Our lab is located in the Charles R. '62 & Judith G. Munnerlyn Astronomical Labo
 
 |Name              |Title                        |Email<br>(append tamu.edu)                 |Office    |Phone          |
 |:-----------------|:---------------------------:|:-----------------------------------------:|:--------:|--------------:|
-|Darren DePoy      |Professor                    |depoy@physics.                             |MASS 204  |(979) 862-2082 |
-|Jennifer Marshall |Assistant Professor          |marshall@                                  |MASS 203  |(979) 862-2782 |
-|Luke Schmidt      |Assistant Research Scientist |lschmidt@physics.                          |MASS 208  |(979) 845-4401 |
-|Erika Cook        |Electrical Engineer          |ecook@                                     |MASS 209D |(979) 845-6140 |
-|Irfan Beg         |                             |iab106@                                    |MASS 217  |(979) 862-2747 |
-|Monique S. Glover |Lead Office Assistant        |mglover@physics.                           |MASS 205  |(979) 862-2099 |
-|Mary Anne Limbach |Research Associate           |malimbach@physics.                         |MASS 209B |               |
-|Lauren Aldoroty   |Graduate Student             |laldoroty@                                 |MASS 207  |               |
-|Peter Ferguson    |Graduate Student             |peterferguson@<br>(append gmail.com) |MASS 207  |               |
+|Darren DePoy      |Professor                         |depoy@physics.                             |MASS 204  |(979) 862-2082 |
+|Jennifer Marshall |Assistant Professor               |marshall@                                  |MASS 203  |(979) 862-2782 |
+|Luke Schmidt      |Assistant Research Scientist      |lschmidt@physics.                          |MASS 208  |(979) 845-4401 |
+|Erika Cook        |Electrical Engineer               |ecook@                                     |MASS 209D |(979) 845-6140 |
+|Irfan Beg         |Mechanical Engineering Specialist |iab106@                                    |MASS 217  |(979) 862-2747 |
+|Monique S. Glover |Lead Office Assistant             |mglover@physics.                           |MASS 205  |(979) 862-2099 |
+|Mary Anne Limbach |Research Associate                |malimbach@physics.                         |MASS 209B |               |
+|Lauren Aldoroty   |Graduate Student                  |laldoroty@                                 |MASS 207  |               |
+|Peter Ferguson    |Graduate Student                  |peterferguson@<br>(append gmail.com)       |MASS 207  |               |
 
 
 ## Visiting the Lab
