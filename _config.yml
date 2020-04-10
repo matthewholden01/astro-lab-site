@@ -203,6 +203,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+plugins: [jekyll-paginate]
 
 
 # Archives

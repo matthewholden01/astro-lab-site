@@ -2,7 +2,7 @@
 layout: single
 title: Giant Magellan Telescope
 header:
-  image: /instruments/assets/Banner_GMT.jpg
+  image: /instruments/assets/GMT/GMT-Photos/Banner_GMT.jpg
 sidebar:
   nav: "side"
 ---
